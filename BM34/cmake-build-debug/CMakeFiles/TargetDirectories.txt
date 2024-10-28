@@ -1,0 +1,3 @@
+/Users/xupeng/Documents/examination_training/BM34/cmake-build-debug/CMakeFiles/BM34.dir
+/Users/xupeng/Documents/examination_training/BM34/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xupeng/Documents/examination_training/BM34/cmake-build-debug/CMakeFiles/rebuild_cache.dir
